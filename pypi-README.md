@@ -1,6 +1,7 @@
 # e-z.host API Python Wrapper
 
 This is a Python wrapper for the e-z.host API, allowing for easy use of the file uploading, link shortening, and pasting services.
+The source code is available at **[https://github.com/NotJINXZ/ez-api](https://github.com/NotJINXZ/ez-api)**
 
 ## Installation
 
